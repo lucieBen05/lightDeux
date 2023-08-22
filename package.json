@@ -1,0 +1,23 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000l\u0000i\u0000g\u0000h\u0000t\u0000D\u0000e\u0000u\u0000x\u0000\r\u0000 \u0000",
+  "browserslist": "> 0.25%, not dead",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "npm run build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucieBen05/lightDeux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucieBen05/lightDeux/issues"
+  },
+  "homepage": "https://github.com/lucieBen05/lightDeux#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
